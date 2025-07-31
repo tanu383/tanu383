@@ -18,29 +18,15 @@
 
 ```javascript
 
-const thai = {
-
-  pronouns: "she" | "her",
-
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-
-  architecture: ["microservices", "event-driven", "design system pattern"],
-
-  techCommunities: {
-
-                        coorganizer: "AfroPython",
-
-                        speaker: "Latinity",
-
-                        mentor: "EducaTRANSforma"
-
-                      },
-
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-
+me = {
+    "pronouns": "he/him",  # or your preferred pronouns
+    "code": ["Python", "R", "SQL"],
+    "tools": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-learn", "Jupyter", "Git"],
+    "interests": ["Data Analysis", "Machine Learning", "Statistics", "Visualization", "AI"],
+    "currently_learning": "Deep Learning & Generative AI",
+    "challenge": "Currently exploring projects in Data Science and contributing to open source"
 }
+
 
 ```
 
