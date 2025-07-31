@@ -1,5 +1,5 @@
 <h2> Hi, I'm Tanu!!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://i.pinimg.com/originals/5a/fb/34/5afb342dab2c1afa44602e789229cdec.gif" width="230"><p><em>Data Science Student at <a href="https://www.banasthali.org/">Banasthli University</a>
+<img align='right' src="https://i.pinimg.com/originals/5a/fb/34/5afb342dab2c1afa44602e789229cdec.gif" width="230"><p><em>Data Science Student at <a href="https://www.banasthali.org/">Banasthali University</a>
 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Pursuing BSc in AI and Machine Learning (ML) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
