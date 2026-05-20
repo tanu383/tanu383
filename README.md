@@ -25,9 +25,11 @@
 me = {
     "pronouns": "she/her",
     "code": ["Python", "HTML", "CSS"],
-    "tools": ["still in development"],
-    "interests": ["Data Analysis", "Machine Learning", "Statistics", "Visualization", "AI"],
+    "tools": ["Pandas", "NumPy", "Jupyter"],
+    "interests": ["Data Analysis", "Machine Learning", 
+                  "Statistics", "AI"],
     "currently_learning": "Libraries In Python",
+    "achievement": "GSSoC 2026 Contributor 🎉",  # ← ADD THIS
     "challenge": "Foundational knowledge is being built"
 }
 
