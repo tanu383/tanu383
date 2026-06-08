@@ -29,7 +29,7 @@ me = {
     "interests": ["Data Analysis", "Machine Learning", 
                   "Statistics", "AI"],
     "currently_learning": "Libraries In Python",
-    "achievement": "GSSoC 2026 Contributor 🎉",  # ← ADD THIS
+    "achievement": "GSSoC 2026 Contributor 🎉",  
     "challenge": "Foundational knowledge is being built"
 }
 
